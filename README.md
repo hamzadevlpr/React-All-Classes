@@ -46,6 +46,6 @@ Create a react application with:
 3. Product details page
 
 
-This site was built using <a href="www.vercel.com/" target="_blank">Vercel</a>
+This site was host on [Vercel](www.vercel.com)
 
 

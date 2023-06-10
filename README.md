@@ -21,29 +21,31 @@ props.
 Create a website using browser routers to make  4 to  5 components also add 
 at least 2 nested components in each parent component.
 
-![image](https://github.com/hamzadvlpr1/react-assignment/assets/99534215/ca02d12b-7fc0-4bba-818a-f26df092fd55)
+![image](https://github.com/hamzadvlpr1/React-All-Classes/assets/99534215/a28974d8-e7fa-4e90-912e-ab0e40cd2a46)
 
 # ASSIGNMENT 04
 Create a Registration form ( Bootstrap ) in React and the data must be saved
 in an array, each form should be in an object
 
-![image](https://github.com/hamzadvlpr1/react-assignment/assets/99534215/094e1436-d419-4b7a-9c03-7df89df0b5d2)
+![image](https://github.com/hamzadvlpr1/React-All-Classes/assets/99534215/b4d4e59a-6af8-4c5a-b238-ebc6195c48f3)
 
 # ASSIGNMENT 05
 Create a react application with:
 1. Sign in / Signup page
 
-![image](https://github.com/hamzadvlpr1/react-assignment/assets/99534215/8d711613-71c6-4689-9013-fe5421dc6a6f)
-![image](https://github.com/hamzadvlpr1/react-assignment/assets/99534215/9e61c253-db57-4503-8c1c-56b4e118c084)
+# Log in Page
+![image](https://github.com/hamzadvlpr1/React-All-Classes/assets/99534215/93de8c7d-abf6-4d43-8a70-4c909633489e)
+
+# Sign in Page
+![image](https://github.com/hamzadvlpr1/React-All-Classes/assets/99534215/81c093ea-65fa-4a1b-8f99-b60cd6cc1d44)
 
 2. Products page
-
-![image](https://github.com/hamzadvlpr1/react-assignment/assets/99534215/cf71a891-9ae6-4f3f-9656-9ae7953b32bc)
+3. 
+![image](https://github.com/hamzadvlpr1/React-All-Classes/assets/99534215/12ed70b0-f3a1-42f4-a43e-332cda95d075)
 
 3. Product details page
 
 
-
-This site was built using [Vercel](https://vercel.com/)
+This site was host on [Vercel](www.vercel.com)
 
 

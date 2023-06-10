@@ -16,7 +16,7 @@ function classNames(...classes) {
 }
 
 function Navbar() {
-    const navList = ["Home", "Products", "Categroies", "Contact", "About", "Todo"];
+    const navList = ["Home", "Products", "Categroies", "Contact", "About", "Todo", "Users"];
     const [isOpen, setIsOpen] = useState(true);
     const { login, setLogin } = useAuth(false);
     const [buttonText, setButtonText] = useState('');

@@ -16,6 +16,7 @@ import Profile from "./Components/Profile";
 import News from "./Components/News";
 import AddToCart from "./Components/AddToCart";
 import Parent from "./Components/PracticeReact/Parent";
+import Users from "./Components/Users";
 
 function App() {
 
@@ -40,6 +41,7 @@ function App() {
             <>
               <Routes>
                 <Route path="/" element={<Login />} />
+                <Route path="/users" element={<Users />} />
                 <Route path="/news" element={<News />} />
                 <Route path="/cart" element={<AddToCart />} />
                 <Route path="/home" element={<Home />} />
